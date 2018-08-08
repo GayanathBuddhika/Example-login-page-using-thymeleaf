@@ -1,0 +1,5 @@
+package com.thymeleafExample.demo.model;
+
+public class LoginForm {
+
+}

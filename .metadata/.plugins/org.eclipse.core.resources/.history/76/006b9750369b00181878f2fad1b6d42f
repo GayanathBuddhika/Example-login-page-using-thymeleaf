@@ -1,0 +1,5 @@
+package com.thymeleafExample.demo.controller;
+
+public class LoginController {
+
+}

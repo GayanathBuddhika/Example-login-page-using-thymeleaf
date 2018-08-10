@@ -22,7 +22,9 @@ public class LoginController {
 		
 		String username=loginForm.getUserName();
 		String password=loginForm.getPassword();
-			
+		
+		System.out.println(username);
+		System.out.println(password);		
 		if("admin".equals(username) && "gaya".equals(password)) {
 			return "home";
 		}else {
